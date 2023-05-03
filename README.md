@@ -8,5 +8,7 @@
   </thead>
   <tbody>
     <tr><td>Dibujos animados</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/dibujos-animados.m3u</code></td></tr>
+    <tr><td>Studio Ghibli Latino</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/studio-ghibli-latino.m3u</code></td></tr>
+    <tr><td>Telechancho Infinity</td><td nowrap><code>https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u</code></td></tr>
   </tbody>
 </table>
