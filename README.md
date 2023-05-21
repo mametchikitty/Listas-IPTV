@@ -41,5 +41,6 @@ Variedad de listas IPTV M3U para usar con cualquier reproductor de IPTV, como po
   <tbody>
     <tr><td>Dibujos animados</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/dibujos-animados.m3u</code></td></tr>
     <tr><td>Studio Ghibli Latino</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/studio-ghibli-latino.m3u</code></td></tr>
+    <tr><td>Super Mario Bros. La pelicula</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/super-mario-bros-la-pelicula.m3u</code></td></tr>
   </tbody>
 </table>
