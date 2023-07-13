@@ -43,5 +43,6 @@ Variedad de listas IPTV M3U para usar con cualquier reproductor de IPTV, como po
     <tr><td>Studio Ghibli Latino</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/studio-ghibli-latino.m3u</code></td></tr>
     <tr><td>Super Mario Bros. La pelicula</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/super-mario-bros-la-pelicula.m3u</code></td></tr>
     <tr><td>Animal Crossing La pelicula</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/animal-crossing.m3u</code></td></tr>
+        <tr><td>Un jefe en pañales</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/jefe-en-pañales.m3u</code></td></tr>
   </tbody>
 </table>
