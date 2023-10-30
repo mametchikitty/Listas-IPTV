@@ -46,3 +46,15 @@ Variedad de listas IPTV M3U para usar con cualquier reproductor de IPTV, como po
         <tr><td>Un jefe en pañales</td><td nowrap><code>https://brunochanrio.github.io/Listas-IPTV/jefe-en-pañales.m3u</code></td></tr>
   </tbody>
 </table>
+
+### Passion Wii Streaming (Solo DangoPlayer Uni)
+<table>
+  <thead>
+    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Passion Wii Streaming</td><td nowrap><code>http://gluvu.atspace.cc/Passion%20Wii%20Streaming</code></td></tr>
+<tr><td>Passion Wii Streaming Zona Kids</td><td nowrap><code>http://gluvu.atspace.cc/Zona%20Kids</code></td></tr>
+
+  </tbody>
+</table>
