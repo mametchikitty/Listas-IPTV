@@ -1,4 +1,4 @@
-# Listas IPTV
+# Listas IPTV de Mametchi Kitty 
 Variedad de listas IPTV M3U para usar con cualquier reproductor de IPTV, como por ejemplo DangoPlayer
 
 ## Listas disponibles:
