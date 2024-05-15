@@ -1,8 +1,9 @@
-remote_theme: vsoch/mkdocs-jekyll@v0.0.12
+remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
 plugins:
 - jekyll-remote-theme
 
 title: Listas IPTV de Mametchi Kitty 
+logo: "mametchikitty.png"
 
 
 
@@ -11,6 +12,10 @@ color: "#1DE9B6"
 accentColor: teal
 themeColor: pink
 fixedNav: 'false' # true or false
+
+github_user: mametchikitty
+instagram: ale.el.mametchi
+threads: "@ale.el.mametchi"
 
 permalink: /:year/:title/
 markdown: kramdown
