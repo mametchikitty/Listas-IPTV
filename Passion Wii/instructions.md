@@ -13,8 +13,8 @@ En estas instrucciones se indicará como agregar las listas de Passion Wii Strea
     <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
   </thead>
   <tbody>
-    <tr><td>Passion Wii Streaming</td><td nowrap><code>http://gluvu.atspace.cc/Passion%20Wii%20Streaming</code></td></tr>
-<tr><td>Passion Wii Streaming Zona Kids</td><td nowrap><code>http://gluvu.atspace.cc/Zona%20Kids</code></td></tr>
+    <tr><td>Passion Wii Streaming</td><td nowrap><code>http://passionstreamingwii.myartsonline.com/Passion%20Wii%20Streaming</code></td></tr>
+<tr><td>Passion Wii Streaming Zona Kids</td><td nowrap><code>http://passionstreamingwii.myartsonline.com/Zona%20Kids</code></td></tr>
 
   </tbody>
 </table>
@@ -33,8 +33,8 @@ En estas instrucciones se indicará como agregar las listas de Passion Wii Strea
     <tr><th align="left">Nombre de lista</th><th align="left">URL de lista*</th></tr>
   </thead>
   <tbody>
-    <tr><td>Passion Wii Streaming</td><td nowrap><code>http://gluvu.atspace.cc/Passion%20Wii%20Streaming</code></td></tr>
-<tr><td>Passion Wii Streaming Zona Kids</td><td nowrap><code>http://gluvu.atspace.cc/Zona%20Kids</code></td></tr>
+    <tr><td>Passion Wii Streaming</td><td nowrap><code>http://passionstreamingwii.myartsonline.com/Passion%20Wii%20Streaming</code></td></tr>
+<tr><td>Passion Wii Streaming Zona Kids</td><td nowrap><code>http://passionstreamingwii.myartsonline.com/Zona%20Kids</code></td></tr>
 
   </tbody>
 </table>
