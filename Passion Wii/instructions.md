@@ -30,7 +30,7 @@ En estas instrucciones se indicará como agregar las listas de Passion Wii Strea
 - Introduce la siguiente información según la lista que desees agregar:
 <table>
   <thead>
-    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista*</th></tr>
+    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
   </thead>
   <tbody>
     <tr><td>Passion Wii Streaming</td><td nowrap><code>http://passionstreamingwii.myartsonline.com/Passion Wii Streaming</code></td></tr>
@@ -39,6 +39,5 @@ En estas instrucciones se indicará como agregar las listas de Passion Wii Strea
   </tbody>
 </table>
 
-\* Al escribir la URL de la lista, puedes sustituir los caracteres `%20` por espacios y la URL funcionará de la misma manera
 - Una vez introducida la información, selecciona la opción "Guardar lista"
 - Ya tendrás la lista de Passion Wii Streaming agregada a tu DangoPlayer
